@@ -53,17 +53,3 @@ Para casos similares ao redor do Brasil, foi sugerido o controle da pesca \cite[
 O Brasil possui mais de sete mil quilômetros de costa voltados em sua totalidade para o Oceano Atlântico. Apesar disso, cada região tem suas características climáticas e pesqueiras, e a região Sudeste é a principal responsável pela pesca de sardinhas (na plataforma continental, primariamente com rede) e atuns (no oceano, com espinhel), além de diversas espécies de camarão \cite{PescaNoBrasil}.
 
 Os animais encontrados na costa brasileira se dividem entre mais de 1300 espécies de invertebrados bentônicos, 1200 espécies de peixes e mais de 50 espécies de mamíferos, além de mais de 100 espécies de aves relacionadas aos ecossistemas marinhos brasileiros \cite[p. 23-24]{EspeciesNoBrasilMMA}. A preservação dos oceanos é assunto de importância única no país com a oitava maior extensão costeira do mundo \cite{RankingLinhasCosteiras}.
-
-## Como inserir imagens
-
-Por exemplo, a Figura \ref{passaro} mostra um pássaro que possui as cores da bandeira do Brasil. 
-
-<!--
-Para referenciar essa figura no texto utilize: Figura \ref{passaro} ou \autoref{passaro}
--->
-
-![Pássaro com as cores da bandeira do Brasil](imagens/passaro.jpg){#passaro width=40%}
-
-Fonte: \citeonline{limarka}
-
-As imagens são inseridas o mais próximo possível do texto que as referenciam.
