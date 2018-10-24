@@ -1,8 +1,6 @@
 # Introdução
 
-## Motivação
-
-### A situação socioambiental da Baixada Santista
+## A situação socioambiental da Baixada Santista
 
 O descarte de lixo e a pesca estão entre as ações humanas que afetam os ecossistemas marinhos. Além delas, ainda é um grave fator a exploração mineral do solo, que afeta os animais de diversas espécies diretamente.
 
@@ -12,19 +10,21 @@ O crescimento populacional elevado e a baixa cobertura midiática e prioridade g
 
 Isso não é dizer que projetos de preservação ambiental não existem na região - na realidade, a RMBS conta com muitos projetos para a proteção dos ecossistemas \cite[p. 44-56]{Gremar} \cite[p. 13-17]{Biopesca}. Elas trabalham pela conscientização e pesquisa a respeito da mortalidade de animais marinhos e outros incidentes socioambientais. Entre suas formas de atuação estão a educação ambiental, o monitoramento costeiro, a pesquisa e o resgate de animais encontrados nas praias.
 
-### A carente cobertura midiática sobre assuntos ambientais
+## A carente cobertura midiática sobre assuntos ambientais
 
 O papel da mídia na difusão de conhecimento sobre problemas ambientais e sua importância é decisivo \cite{PapelMidiaJornalismoAmbiental}. 
 
 No entanto, a cobertura midiática de temas ambientais é defasada. Em média, manchetes de entretenimento recebem até três vezes mais cobertura que matérias ambientais \cite[p. 1]{CoberturaAmbiental}.
 
-### A necessidade de exploração jornalística de novos canais de comunicação
+## A necessidade de exploração jornalística de novos canais de comunicação
 
 O formato pelo qual as pessoas preferem se informar é um panorama que está em constante mutação. É comum que as pessoas utilizem mais de um meio de comunicação para consumir notícias \cite{PewResearchFonteNoticias}, e o uso de serviços de *streaming* vem ultrapassando o uso da televisão tradicional, já tendo públicos maiores entre os jovens até 29 anos de idade \cite{PewResearchStreamingVsTv}.
 
 > A plataforma menos comum entre europeus ocidentais para notícias é a impressa, com uma mediana de 30% consumindo notícias desta forma. [...] é importante notar que eles tendem a depender de mais de uma plataforma. Maiorias em todos os oito países pesquisados consomem diariamente notícias de dois ou mais tipos de plataforma. \cite{PewResearchFonteNoticias}
 
-A decadência da mídia impressa, sua subsequente substituição pela televisão e a mais nova mudança com o constante aumento no consumo de notícias pela internet e especialmente por dispositivos móveis são indicadores de que o Jornalismo enquanto campo profissional não pode se acomodar a práticas antigas.
+A mídia impressa decai constantemente no mundo \cite{PewResearchQuedaJornais}, e as bancas de jornal, antes tão comuns, agora caem em número às centenas a cada ano \cite[p. 62-63]{CienciaCulturaBancas}. A televisão, que já foi a grande culpada, hoje é alvo de estudos sobre como pode se reinventar para sobreviver à nova era da informação \cite{TransmidiaTv}. Isso mostra um forte avanço da mídia digital que já força antigos impérios midiáticos a se reinventarem e aceitarem quedas na receita \cite{PewResearchQuedaJornais}.
+
+Tudo isso traz aos holofotes a necessidade do jornalismo enquanto prática se adaptar às necessidades da população - que agora passa a considerar *buzzwords* como *tempo real* e *interativo* parte de suas vidas cotidianas.
 
 # Objetivos
 
