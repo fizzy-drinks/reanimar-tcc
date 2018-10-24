@@ -14,13 +14,17 @@ Isso não é dizer que projetos de preservação ambiental não existem na regi�
 
 ### A carente cobertura midiática sobre assuntos ambientais
 
-O papel da mídia na difusão de conhecimento sobre problemas ambientais e sua importância é decisivo \cite{PapelMidiaJornalismoAmbiental}. No entanto, o formato pelo qual as pessoas preferem se informar é um panorama que está em constante mutação. É comum que as pessoas utilizem mais de um meio de comunicação para consumir notícias \cite{PewResearchFonteNoticias}, e o uso de serviços de *streaming* vem ultrapassando o uso da televisão tradicional, já tendo públicos maiores entre os jovens até 29 anos de idade \cite{PewResearchStreamingVsTv}.
+O papel da mídia na difusão de conhecimento sobre problemas ambientais e sua importância é decisivo \cite{PapelMidiaJornalismoAmbiental}. 
+
+No entanto, a cobertura midiática de temas ambientais é defasada. Em média, manchetes de entretenimento recebem até três vezes mais cobertura que matérias ambientais \cite[p. 1]{CoberturaAmbiental}.
+
+### A necessidade de exploração jornalística de novos canais de comunicação
+
+O formato pelo qual as pessoas preferem se informar é um panorama que está em constante mutação. É comum que as pessoas utilizem mais de um meio de comunicação para consumir notícias \cite{PewResearchFonteNoticias}, e o uso de serviços de *streaming* vem ultrapassando o uso da televisão tradicional, já tendo públicos maiores entre os jovens até 29 anos de idade \cite{PewResearchStreamingVsTv}.
 
 > A plataforma menos comum entre europeus ocidentais para notícias é a impressa, com uma mediana de 30% consumindo notícias desta forma. [...] é importante notar que eles tendem a depender de mais de uma plataforma. Maiorias em todos os oito países pesquisados consomem diariamente notícias de dois ou mais tipos de plataforma. \cite{PewResearchFonteNoticias}
 
-Além disso, a cobertura midiática de temas ambientais é defasada. Em média, manchetes de entretenimento recebem até três vezes mais cobertura que matérias ambientais \cite[p. 1]{CoberturaAmbiental}.
-
-### A necessidade de exploração jornalística de novos canais de comunicação
+A decadência da mídia impressa, sua subsequente substituição pela televisão e a mais nova mudança com o constante aumento no consumo de notícias pela internet e especialmente por dispositivos móveis são indicadores de que o Jornalismo enquanto campo profissional não pode se acomodar a práticas antigas.
 
 # Objetivos
 
