@@ -1,5 +1,9 @@
 # Introdução
 
+## Motivação
+
+### A situação socioambiental da Baixada Santista
+
 O descarte de lixo e a pesca estão entre as ações humanas que afetam os ecossistemas marinhos. Além delas, ainda é um grave fator a exploração mineral do solo, que afeta os animais de diversas espécies diretamente.
 
 A densidade demográfica média de regiões costeiras é três vezes maior que a densidade média global \cite[p. 584-599]{DensidadeLitoral}. Isso reflete a histórica necessidade humana de se localizar em regiões férteis e de fácil acesso. A região da Baixada Santista é altamente urbanizada, com 99,6% de sua área habitada possuindo características urbanas, e tem uma população de aproximadamente 1,5 milhão de habitantes segundo dado de 2000 \cite[p. 43-44]{DensidadeBaixadaSantista}.
@@ -8,21 +12,27 @@ O crescimento populacional elevado e a baixa cobertura midiática e prioridade g
 
 Isso não é dizer que projetos de preservação ambiental não existem na região - na realidade, a RMBS conta com muitos projetos para a proteção dos ecossistemas \cite[p. 44-56]{Gremar} \cite[p. 13-17]{Biopesca}. Elas trabalham pela conscientização e pesquisa a respeito da mortalidade de animais marinhos e outros incidentes socioambientais. Entre suas formas de atuação estão a educação ambiental, o monitoramento costeiro, a pesquisa e o resgate de animais encontrados nas praias.
 
-Este projeto visa explorar diferentes formas de divulgar a atual situação do meio ambiente na Baixada Santista, trazendo aos holofotes a necessidade de ação direta para preservação ambiental e os impactos negativos que a negligência pode causar num curto período de tempo. Para atingir este objetivo, serão usadas diferentes formas de mídia como texto, áudio, imagem estática e vídeo estruturados no formato de aplicativo web para permitir a exploração não-linear do conteúdo, aproveitando-se para seu fim das tendências do comportamento humano frente a meios digitais e descobrindo novas formas de se transmitir ideias através da internet.
+### A carente cobertura midiática sobre assuntos ambientais
 
-## Motivação
+O papel da mídia na difusão de conhecimento sobre problemas ambientais e sua importância é decisivo \cite{PapelMidiaJornalismoAmbiental}. No entanto, o formato pelo qual as pessoas preferem se informar é um panorama que está em constante mutação. É comum que as pessoas utilizem mais de um meio de comunicação para consumir notícias \cite{PewResearchFonteNoticias}, e o uso de serviços de *streaming* vem ultrapassando o uso da televisão tradicional, já tendo públicos maiores entre os jovens até 29 anos de idade \cite{PewResearchStreamingVsTv}.
 
-## Objetivos
+> A plataforma menos comum entre europeus ocidentais para notícias é a impressa, com uma mediana de 30% consumindo notícias desta forma. [...] é importante notar que eles tendem a depender de mais de uma plataforma. Maiorias em todos os oito países pesquisados consomem diariamente notícias de dois ou mais tipos de plataforma. \cite{PewResearchFonteNoticias}
 
-### Objetivo geral
+Além disso, a cobertura midiática de temas ambientais é defasada. Em média, manchetes de entretenimento recebem até três vezes mais cobertura que matérias ambientais \cite[p. 1]{CoberturaAmbiental}.
 
-Apresentação do objetivo geral.
+### A necessidade de exploração jornalística de novos canais de comunicação
 
-### Objetivos específicos
+# Objetivos
 
-- objetivo 1
-- objetivo 2
-- objetivo 3
+## Objetivo geral
+
+Este projeto visa explorar diferentes formas de divulgar a atual situação do meio ambiente na Baixada Santista, trazendo aos holofotes a necessidade de ação direta para preservação ambiental e os impactos negativos que a negligência pode causar num curto período de tempo. Para atingir este objetivo, serão usadas diferentes formas de mídia como texto, áudio, imagem estática e vídeo estruturados no formato de aplicativo web para permitir a exploração interativa do conteúdo, aproveitando-se para seu fim das tendências do comportamento humano frente a meios digitais e descobrindo novas formas de se transmitir ideias através da internet.
+
+## Objetivos específicos
+
+- Difundir conhecimento a respeito da necessidade de intervenção em favor do meio ambiente nas regiões costeiras;
+- Conscientizar a população de problemas de pouca evidência midiática, com o intuito de expandir a procura por conteúdo relacionado a causas socioambientais;
+- Conduzir experimento que explore as novas possibilidades trazidas pela internet para o jornalismo, criando-se um ambiente interativo e mais interessante, contrapondo-se à queda regular no público das mídias tradicionais.
 
 # A influência humana sobre o ecossistema marinho brasileiro
 
