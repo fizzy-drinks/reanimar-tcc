@@ -202,10 +202,11 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/lmex10.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm
 INPUT xxx-Monografia.toc
 INPUT xxx-Monografia.toc
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/lm/omslmr.fd
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/lm/omslmr.fd
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmbx10.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmri10.tfm
 INPUT imagens/passaro.jpg
 INPUT xxx-Monografia.bbl
