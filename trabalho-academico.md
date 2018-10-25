@@ -1,5 +1,60 @@
 # Introdução
 
+Este projeto explora as novas possibilidades de aplicação dos paradigmas da
+*new media* no jornalismo ambiental. Através do uso da mídia digital, contando com
+as características interativas dos aplicativos *web* modernos e com os recursos
+disponibilizados pela crescente capacidade de processamento de dados dos
+computadores modernos, incorporando na metodologia estudos sobre o atual
+comportamento dos consumidores de mídia e visando a maior difusão de conteúdo,
+tendo em vista a crescente rejeição -- ou, mais precisamente, a crescente
+ignorância a respeito -- dos formatos tradicionais de mídia.
+
+Através do uso de *design* que se adapte a diversos formatos de tela, elementos
+interativos, texto claro -- inspirado simultaneamente na factualidade da chamada
+*hard news* e no aprofundamento do jornalismo literário -- e ênfase nas
+características que destacam o meio digital (multimidiático) dos seus antecessores,
+o projeto busca demonstrar as diferentes possibilidades de produção de conteúdo
+para usuários que são cada vez mais rápidos em adotar novas formas de comunicação.
+
+## O Produto
+
+Do ponto de vista do conteúdo explorado na produção jornalística, o projeto
+tem como objetivo conscientizar a sua audiência -- através do meio multimídia
+anteriormente mencionado -- sobre a mortalidade de animais marinhos no litoral
+paulista, a causa das mortes, outros riscos ambientais presentes na região e os
+meios de ação para contribuir com a preservação ambiental. Foram executadas matérias
+em diversos locais da RMBS, consultando-se pesquisadores engajados na preservação
+ambiental da região, moradores de cidades da RMBS e outros membros de ONGs ligadas
+à pesquisa e catalogação biogeográfica da região.
+
+# Objetivos
+
+## Objetivo geral
+
+Este projeto visa explorar diferentes formas de divulgar a atual situação do
+meio ambiente na Baixada Santista, trazendo aos holofotes a necessidade de ação
+direta para preservação ambiental e os impactos negativos que a negligência pode
+causar num curto período de tempo. Para atingir este objetivo, serão usadas
+diferentes formas de mídia como texto, áudio, imagem estática e vídeo
+estruturados no formato de aplicativo web para permitir a exploração interativa
+do conteúdo, aproveitando-se para seu fim das tendências do comportamento humano
+frente a meios digitais e descobrindo novas formas de se transmitir ideias
+através da internet.
+
+## Objetivos específicos
+
+- Difundir conhecimento a respeito da necessidade de intervenção em favor do
+meio ambiente nas regiões costeiras;
+- Conscientizar a população de problemas de pouca evidência midiática, com o
+intuito de expandir a procura por conteúdo relacionado a causas
+socioambientais;
+- Conduzir experimento que explore as novas possibilidades trazidas pela
+internet para o jornalismo, criando-se um ambiente interativo e mais
+interessante, contrapondo-se à queda regular no público das mídias
+tradicionais.
+
+# Justificativa
+
 ## A carente cobertura midiática sobre assuntos ambientais
 
 O papel da mídia na difusão de conhecimento sobre problemas ambientais e sua
@@ -204,29 +259,3 @@ de mudanças de comportamento ainda é inferior ao desejado. Isso é evidenciado
 pela alta presença de lixo encontrado nas praias da RMBS -- que provém não
 apenas dos visitantes das praias, mas também de moradores das cidades que
 descartam objetos nos corpos de água e ruas no interior das cidades.
-
-# Objetivos
-
-## Objetivo geral
-
-Este projeto visa explorar diferentes formas de divulgar a atual situação do
-meio ambiente na Baixada Santista, trazendo aos holofotes a necessidade de ação
-direta para preservação ambiental e os impactos negativos que a negligência pode
-causar num curto período de tempo. Para atingir este objetivo, serão usadas
-diferentes formas de mídia como texto, áudio, imagem estática e vídeo
-estruturados no formato de aplicativo web para permitir a exploração interativa
-do conteúdo, aproveitando-se para seu fim das tendências do comportamento humano
-frente a meios digitais e descobrindo novas formas de se transmitir ideias
-através da internet.
-
-## Objetivos específicos
-
-- Difundir conhecimento a respeito da necessidade de intervenção em favor do
-meio ambiente nas regiões costeiras;
-- Conscientizar a população de problemas de pouca evidência midiática, com o
-intuito de expandir a procura por conteúdo relacionado a causas
-socioambientais;
-- Conduzir experimento que explore as novas possibilidades trazidas pela
-internet para o jornalismo, criando-se um ambiente interativo e mais
-interessante, contrapondo-se à queda regular no público das mídias
-tradicionais.
