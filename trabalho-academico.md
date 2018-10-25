@@ -26,7 +26,7 @@ Um terceiro problema é a natureza comercial dos veículos de comunicação de m
 
 > A imprensa brasileira dificilmente trata dos problemas ambientais com profundidade e clareza na pauta da discussões públicas, geralmente ganham enfoques superficiais ou distorcidos, por vezes ganham destaque as "Ecocatástrofes", por meio do terrorismo de manchetes de uma "natureza na UTI.", isto é, ressaltam a ecologia sob a face do medo veiculado \cite[p. 14]{Alves2002JornalismoAmbiental}
 
-O assunto é posteriormente explorado mediante ao desastre de Mariana[^mariana]. Constata-se que embora a cobertura jornalística de pautas ambientais tenha crescido ao longo do tempo, a especialização ainda é defasada no Brasil, reduzindo-se ao espetáculo proporcionado pela catástrofe após sua ocorrência. \cite[p. 25-29]{Bueno2017Mariana}
+O assunto é posteriormente explorado mediante ao desastre de Mariana[^mariana]. \citeonline[p. 25-29]{Bueno2017Mariana} constata que embora a cobertura jornalística de pautas ambientais tenha crescido ao longo do tempo, a especialização ainda é defasada no Brasil, reduzindo-se ao espetáculo proporcionado pela catástrofe após sua ocorrência.
 
 [^mariana]: A catástrofe de Mariana foi o rompimento da barragem de Fundão, em Minas Gerais, no dia 5 de novembro de 2015. O acidente resultou no depósito de mais de 60 milhões de metros cúbicos de rejeitos de mineração no Rio Doce, em Minas Gerais, e a subsquente inundação do município de Mariana, causando 17 mortes diretas e danos superiores a 100 milhões de reais, além da contaminação do Rio Doce em mais de 230 municípios \cite{Coelho2015Mariana}.
 
@@ -38,7 +38,9 @@ O formato pelo qual as pessoas preferem se informar é um panorama que está em 
 
 A mídia impressa decai constantemente no mundo \cite{PewResearchQuedaJornais}, e as bancas de jornal, antes tão comuns, agora caem em número às centenas a cada ano \cite[p. 62-63]{CienciaCulturaBancas}. A televisão, que já foi a grande culpada, hoje é alvo de estudos sobre como pode se reinventar para sobreviver à nova era da informação \cite{TransmidiaTv}. Isso mostra um forte avanço da mídia digital que já força antigos impérios midiáticos a se reinventarem e aceitarem quedas na receita \cite{PewResearchQuedaJornais}.
 
-Tudo isso traz aos holofotes a necessidade do jornalismo enquanto prática se adaptar às necessidades da população - que agora passa a considerar *buzzwords* como *tempo real* e *interativo* parte de suas vidas cotidianas.
+Tudo isso traz aos holofotes a necessidade do jornalismo enquanto prática se adaptar às necessidades da população - que agora passa a considerar *buzzwords*[^buzz] como *tempo real* e *interativo* parte de suas vidas cotidianas. Não é de interesse dos jornalistas, ou das empresas que vendem comunicação de massa, se afastarem de seu público. Por isso, os diferentes tipos de mídia estão em estado de convergência, e não de competição. Já é comum que as mídias caminhem no sentido de se integrar e utilizar *software* e bases de dados compartilhadas \cite[p. 4]{JornalismoMobile}.
+
+[^buzz]: Termos ou palavras em voga
 
 # Objetivos
 
