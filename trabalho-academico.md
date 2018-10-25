@@ -10,11 +10,25 @@ O crescimento populacional elevado e a baixa cobertura midiática e prioridade g
 
 Isso não é dizer que projetos de preservação ambiental não existem na região - na realidade, a RMBS conta com muitos projetos para a proteção dos ecossistemas \cite[p. 44-56]{Gremar} \cite[p. 13-17]{Biopesca}. Elas trabalham pela conscientização e pesquisa a respeito da mortalidade de animais marinhos e outros incidentes socioambientais. Entre suas formas de atuação estão a educação ambiental, o monitoramento costeiro, a pesquisa e o resgate de animais encontrados nas praias.
 
+No entanto, o conhecimento público sobre a importância de políticas ambientais e de mudanças de comportamento ainda é inferior ao desejado. Isso é evidenciado pela alta presença de lixo encontrado nas praias da RMBS - que provém não apenas dos visitantes das praias, mas também de moradores das cidades que descartam objetos nos corpos de água e ruas no interior das cidades.
+
 ## A carente cobertura midiática sobre assuntos ambientais
 
-O papel da mídia na difusão de conhecimento sobre problemas ambientais e sua importância é decisivo \cite{PapelMidiaJornalismoAmbiental}. 
+O papel da mídia na difusão de conhecimento sobre problemas ambientais e sua importância é decisivo \cite{Alves2002JornalismoAmbiental}. Embora seja uma questão multidisciplinar - relacionada, também, a campos como educação e políticas públicas -, a difusão da informação através da mídia é de suma importância para a formação pública de opinião.
 
 No entanto, a cobertura midiática de temas ambientais é defasada. Em média, manchetes de entretenimento recebem até três vezes mais cobertura que matérias ambientais \cite[p. 1]{CoberturaAmbiental}.
+
+Além disso, a clareza das informações pode ser algo problemático, assim como é para todo jornalismo científico. A necessidade de simplificar a informação e respeitar a pirâmide invertida[^piramide] contrasta com a necessidade de detalhar um assunto complexo e delicado, que pode levar o leitor a conclusões precipitadas ou errôneas. Na realidade, o problema de conflito entre o simples e o complexo não é exclusivo do jornalismo científico, ou de culpa da interpretação do leitor -- o jornalista, além de primeiramente responsável pela elaboração do texto e organização dos fatos, também é suscetível à confusão, como já foi apontado por Clóvis Rossi quando conta sobre episódios em que informação publicamente conhecida (ou até mesmo oferecida por uma fonte oficial) pode estar equivocada \cite{OQueEJornalismo}.
+
+[^piramide]: A pirâmide invertida é a representação gráfica da ordenação de uma notícia, começando-se pelo fator mais importante \cite{PiramideInvertida}
+
+Um terceiro problema é a natureza comercial dos veículos de comunicação de massa, que gera a necessidade de *headlines* fortes \cite[p. 125-128]{SciJor2001}, negligenciando as nuances das histórias. Isso se relaciona com o fato mencionado anteriormente que a mídia dá pouca atenção para problemas ambientais, já que estes estão fora da esfera de interesse dos leitores e do interesse econômico das organizações responsáveis pelos veículos da informação. Em muitos casos, as únicas manchetes que chegam aos telejornais e primeiras páginas dos impressos são aquelas que, ironicamente, mostram um problema quando já é tarde demais para preveni-lo.
+
+> A imprensa brasileira dificilmente trata dos problemas ambientais com profundidade e clareza na pauta da discussões públicas, geralmente ganham enfoques superficiais ou distorcidos, por vezes ganham destaque as "Ecocatástrofes", por meio do terrorismo de manchetes de uma "natureza na UTI.", isto é, ressaltam a ecologia sob a face do medo veiculado \cite[p. 14]{Alves2002JornalismoAmbiental}
+
+O assunto é posteriormente explorado mediante ao desastre de Mariana[^mariana]. Constata-se que embora a cobertura jornalística de pautas ambientais tenha crescido ao longo do tempo, a especialização ainda é defasada no Brasil, reduzindo-se ao espetáculo proporcionado pela catástrofe após sua ocorrência. \cite[p. 25-29]{Bueno2017Mariana}
+
+[^mariana]: A catástrofe de Mariana foi o rompimento da barragem de Fundão, em Minas Gerais, no dia 5 de novembro de 2015. O acidente resultou no depósito de mais de 60 milhões de metros cúbicos de rejeitos de mineração no Rio Doce, em Minas Gerais, e a subsquente inundação do município de Mariana, causando 17 mortes diretas e danos superiores a 100 milhões de reais, além da contaminação do Rio Doce em mais de 230 municípios \cite{Coelho2015Mariana}.
 
 ## A necessidade de exploração jornalística de novos canais de comunicação
 
