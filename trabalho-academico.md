@@ -319,3 +319,50 @@ suas múltiplas reponsabilidades, que salientar, não como indivíduo, mas como
 representante de uma instituição social, as pautas socioambientais -- especialmente
 as diretamente ligadas à ecologia e ao que as pessoas podem fazer individualmente
 -- entre os assuntos que transitam o noticíario no dia a dia.
+
+# Fundamentação teórica e referências
+
+\citeonline{InteractiveJournalismSnowfall} recorda que *Snow Fall: The Avalanche
+at Tunnel Creek*, uma reportagem interativa desenvolvida e publicada em 2012 no
+*website* do jornal americano *The New York Times*, permitia aos usuários que
+navegassem mapas interativos, modelos 3D, ouvissem notas de áudio e assistissem
+a vídeos produzidos pela equipe do jornal, explorando os fatos através de não
+apenas texto, mas também uma coleção de dados que poderia ser consumida no ritmo
+-- e ordem -- que o leitor quisesse. A reportagem ganhou um prêmio *Pulitzer*
+pelo que o júri nomeou um "trabalho aprimorado pela destra integração de elementos
+multimidiáticos". Influenciados também por exemplos acadêmicos do jornalismo
+multimidiático durante o curso de graduação, nós buscamos, dentro das restrições
+de tempo, recursos e conhecimentos técnicos que apenas recentemente passaram a
+fazer parte da profissão do jornalista, explorar a possibilidade de produzir uma
+reportagem interativa, que permitisse ao consumidor buscar entre os dados por nós
+coletados aqueles que mais o interessam.
+
+O jornalismo multimídia tomou diversas formas ao longo dos anos -- algumas mais
+orientadas a dados, outras mais tradicionais. Uma reportagem do jornal de Des
+Moines, Iowa, *The Des Moines Register* entitulada *Harvest of Change* ("A
+Colheita da Mudança") permitiu a exploração de uma "história de mudança climática,
+organismos geneticamente modificados, imigração e queda de população rural"
+através de realidade virtual. Embora a aplicação tenha sido descrita como "lenta
+e difícil de baixar e navegar", foi um exemplo de como o jornalismo pode adotar
+novas tecnologias, geralmente relacionadas aos universos da Ciência da Computação
+\cite{InteractiveJournalismHarvestOfChange}.
+
+<!--
+# Público-alvo
+
+# Fontes
+
+# Experiências e desafios
+
+# Plano de negócios e viabilização do produto jornalístico
+
+# Recursos utilizados
+
+## Tecnologias *web*
+
+## Processamento de dados
+
+## Equipamentos para gravação
+
+# Cronograma anual
+-->
