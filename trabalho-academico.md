@@ -289,7 +289,7 @@ das praias pelas UCs entre os estados de Santa Catarina e São Paulo
 efetuam monitoramento diário.[^simba]
 
 [^simba]: Informações registradas no SIMBA. Disponível em:
-https://segurogis.petrobras.com.br/simba/web/
+segurogis.petrobras.com.br/simba/web/
 
 Embora o PMP-BS seja de auxílio à pesquisa na região, ainda é necessária a
 colaboração popular, já que nem todos os agentes humanos a causar mortes no
@@ -344,13 +344,51 @@ Colheita da Mudança") permitiu a exploração de uma "história de mudança cli
 organismos geneticamente modificados, imigração e queda de população rural"
 através de realidade virtual. Embora a aplicação tenha sido descrita como "lenta
 e difícil de baixar e navegar", foi um exemplo de como o jornalismo pode adotar
-novas tecnologias, geralmente relacionadas aos universos da Ciência da Computação
+novas tecnologias, geralmente relacionadas ao universo da Ciência da Computação
 \cite{InteractiveJournalismHarvestOfChange}.
 
-<!--
 # Público-alvo
 
+O público ao qual o projeto está destinado define-se primariamente pelo quesito
+de localização geográfica, já que um grande ponto da reportagem é a localização
+do problema ambiental: o litoral paulista.
+
+Outros fatores também se tornam relevantes mediante o meio utilizado, como o
+acesso à internet e uma mínima proficiência com o uso de aplicativos digitais
+interativos. No entanto, o crescente uso de computadores e telefones móveis como
+meio para consumo de conteúdo jornalístico \cite{PewResearchFonteNoticias}
+\cite{TransmidiaTv} aponta que essa barreira está sendo (e em larga parte, já
+foi) superada, em particular em regiões mais desenvolvidas como a RMBS.
+
 # Fontes
+
+## Fontes pessoais
+
+- Rodrigo Valle, coordenador, Instituto Biopesca
+- Gabriela Santos, bióloga, Instituto Biopesca
+- Maria Carolina Ramos, jornalista, Instituto Biopesca
+- Ana Lúcia Voidella, bióloga, Gremar
+- Fábio Giordano, biólogo e professor[^giordano], Universidade Santa Cecília
+- Dal Marcondes, jornalista, fundador e editor-chefe da Envolverde[^envolverde]
+
+[^giordano]: Cofundador do Projeto Albatroz e coordenador do curso de Biologia
+Marinha da UNISANTA
+[^envolverde]: Revista digital de jornalismo ambiental. Disponível em:
+envolverde.cartacapital.com.br
+
+## Fontes documentais
+
+- SIMBA. segurogis.petrobras.com.br/simba/web/
+- Relatório anual do PMP. comunicabaciadesantos.com.br/programa-ambiental/projeto-de-monitoramento-de-praias-pmp.html
+
+## Fontes organizacionais
+
+- Projeto Albatroz. projetoalbatroz.org.br
+- Instituto Biopesca. biopesca.org.br
+- Gremar. gremar.org.br
+- PMP. pmp.acad.univali.br/site
+
+<!--
 
 # Experiências e desafios
 
