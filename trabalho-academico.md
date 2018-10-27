@@ -263,12 +263,6 @@ mortes diretas e danos superiores a 100 milhões de reais, além da contaminaç�
 do Rio Doce em mais de 230 municípios de Minas Gerais e do Espírito Santo
 \cite{Coelho2015Mariana}.
 
-Faz-se necessária, então, a presença mais forte de pressão popular para impedir
-a negligência ambiental de órgãos governamentais e de empresas. É certo que,
-fosse dada a devida atenção à necessidade de reforma de aparatos públicos e
-remoção de resíduos tóxicos do ambiente, muitas catástrofes -- e certamente a
-de Mariana-MG -- poderiam ter sido evitadas.
-
 É essencial, portanto, que para a sustentabilidade da população humana haja
 monitoramento dos riscos ambientais por todo o planeta antes da ocorrência de
 desastres socioambientais e danos irreversíveis ao ambiente. Embora o movimento
@@ -277,6 +271,12 @@ repercussão mundial. É intrigante que o ser humano não se importe mais com a
 terra que lhe garante o sustento. Ao mesmo tempo, é natural que a população,
 preocupada com questões pessoais, emprego e lazer levem tempo para adaptar seu
 quadro de pensamento a ideias de campos de estudo menos ligados ao seu dia a dia.
+
+Faz-se necessária, então, a presença mais forte de pressão popular para impedir
+a negligência ambiental de órgãos governamentais e de empresas. É certo que,
+fosse dada a devida atenção à necessidade de reforma de aparatos públicos e
+remoção de resíduos tóxicos do ambiente, muitas catástrofes -- e certamente a
+de Mariana-MG -- poderiam ter sido evitadas.
 
 ## O monitoramento ambiental no litoral paulista e a necessidade da sua divulgação
 
