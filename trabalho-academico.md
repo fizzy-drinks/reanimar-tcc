@@ -427,16 +427,61 @@ público alvo. Além disso, a interpretação dos dados e transformação de nú
 em fatos relevantes é algo que se mostra extremamente necessário como uma
 habilidade para o jornalista da Era da Informação.
 
-<!--
 # Plano de negócios e viabilização do produto jornalístico
 
 # Recursos utilizados
 
 ## Tecnologias *web*
 
+Para a produção prática do projeto, foram utilizadas as tecnologias padrão de
+páginas da *web*, compatíveis com os navegadores modernos como Google Chrome,
+Mozilla Firefox, Microsoft Edge, Apple Safari e suas respectivas versões para
+dispositivos móveis, quando aplicável. Entre estas tecnologias se encontram:
+
+- HTML, CSS e JavaScript
+- Bibliotecas de código aberto para uso com as tecnologias acima mencionadas, como:
+  - Google Charts
+  - OpenStreetMap
+  - VueJS
+  - OpenGraph
+
+## SEO
+
+*SEO* significa *search engine optimization*. É uma técnica utilizada por
+jornalistas e profissionais da publicidade para que seus textos se encontrem
+facilmente entre os primeiros resultados nos motores de busca. Consiste na
+utilização de termos frequentemente pesquisados, na otimização do tempo de
+carregamento da página e na inclusão de metaconteúdo[^meta] que facilite ao
+sistema automatizado de indexação dos motores de busca exibir seu conteúdo entre
+os resultados de busca.
+
+[^meta]: Informações sobre uma página da internet e o que pode ser encontrado
+dentro dela.
+
 ## Processamento de dados
+
+Para o processamento dos dados, foi utilizada a linguagem de programação Python.
+A linguagem é recomendada para pessoas sem conhecimento prévio de computação
+devido à facilidade de instalação e de leitura das estruturas de controle.
+
+Os dados oferecidos pelo PMP através do SIMBA podiam ser exportados para formatos
+tabulados, como Microsoft Excel e CSV. No entanto, entre os dados se encontravam
+informações de diversos estados desde o início dos registros em 2012. Para a
+separação de dados por espécie, data e localização, foram escritos pequenos
+programas que fizeram a seleção dos registros relevantes para cada caso.
 
 ## Equipamentos para gravação
 
+A internet permite que a qualidade das gravações seja contraposta pela necessidade
+de um baixo consumo de dados para acelerar a velocidade da comunicação. Combinado
+com a crescente disponibilidade de equipamentos capazes de efetuar gravações de
+qualidade aceitável, esse fato permite que os registros sejam feitos através de
+telefones celulares.
+
+Para a gravação das reportagens em vídeo e áudio, foram utilizados dois celulares:
+um Asus ZenFone 3 e um Asus ZenFone 4. A edição foi feita com computadores
+domésticos, assim como a tabulação dos dados anteriormente mencionada.
+
+<!--
 # Cronograma anual
 -->

@@ -219,6 +219,7 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/lmsy5.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmr7.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/lm/omslmr.fd
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/lm/omslmr.fd
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmsso17.tfm
 INPUT xxx-Monografia.bbl
 INPUT xxx-Monografia.bbl
 INPUT xxx-Monografia.brf
