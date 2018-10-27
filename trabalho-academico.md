@@ -388,10 +388,46 @@ envolverde.cartacapital.com.br
 - Gremar. gremar.org.br
 - PMP. pmp.acad.univali.br/site
 
-<!--
-
 # Experiências e desafios
 
+Um recorrente desafio da produção jornalística ao qual fomos apresentados desde
+o início de nossas carreiras é a disponibilidade das fontes. Se para um veículo
+de alta reputação e audiência é, por vezes, difícil se adequar às agendas dos
+seus entrevistados, muitas vezes a situação é pior para veículos menores. Mais
+difícil ainda, conclui-se, é conseguir a atenção de potenciais entrevistados
+para um projeto não publicado e que, mesmo após a publicação, pode não ganhar
+publicidade suficiente para se tornar relevante. Isso provou ser verdadeiro para
+nós durante a produção do Projeto Reanimar. Muitas das fontes pretendidas não se
+mostraram disponíveis para entrevista, mesmo com múltiplas tentativas de
+agendamento e tiveram de ser substituídas por outras. Num geral, devido a
+limitações relacionadas a recursos, tempo e escopo do tema, a indisponibilidade
+de representantes das UCs em datas específicas nos levou a depender mais daqueles
+que puderam dispor de seu tempo para esclarecer e opinar a respeito dos dados
+coletados. Isso não é dizer que o trabalho foi prejudicado pelas adversidades;
+todos os dados e informações necessárias foram conseguidos de uma forma ou de
+outra.
+
+Sem dúvida, outro grande aprendizado foi relacionado ao jornalismo de dados:
+os dados disponíveis são de pesquisas em andamento e precisaram ser processados
+e tabulados manualmente para a produção desta reportagem. Na realidade, este foi
+mais um benefício para o argumento da atualização profissional dos jornalistas
+com proveito da tecnologia. Aprendemos a criar pequenos programas de computador
+para automatizar a separação dos dados relevantes[^dados] usando a linguagem de
+programação Python.
+
+[^dados]: Os dados relacionados ao litoral de São Paulo foram disponibilizados
+em conjunto com os dados do Paraná e de Santa Catarina, pois todos fazem parte
+da Fase 1 do PMP, enquanto a Fase 2 é composta pelos dados coletados no estado
+do Rio de Janeiro.
+
+Por fim, foi adquirida imensa experiência relacionada à produção jornalística
+verdadeiramente prática; as nuances da produção do texto e do conteúdo multimídia
+de tal forma que seja facilmente compreensível e interessante para o nosso
+público alvo. Além disso, a interpretação dos dados e transformação de números
+em fatos relevantes é algo que se mostra extremamente necessário como uma
+habilidade para o jornalista da Era da Informação.
+
+<!--
 # Plano de negócios e viabilização do produto jornalístico
 
 # Recursos utilizados
