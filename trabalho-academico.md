@@ -1,31 +1,54 @@
 # Introdução
 
 Este projeto explora as novas possibilidades de aplicação dos paradigmas da
-*new media* no jornalismo ambiental. Através do uso da mídia digital, contando com
-as características interativas dos aplicativos *web* modernos e com os recursos
-disponibilizados pela crescente capacidade de processamento de dados dos
-computadores modernos, incorporando na metodologia estudos sobre o atual
-comportamento dos consumidores de mídia e visando a maior difusão de conteúdo,
-tendo em vista a crescente rejeição -- ou, mais precisamente, a crescente
-ignorância a respeito -- dos formatos tradicionais de mídia.
+*new media* no jornalismo ambiental, contando com características interativas
+de aplicativos *web*.
 
-Através do uso de *design* que se adapte a diversos formatos de tela, elementos
+Através de uma reportagem em mídia digital produzida sob medida para seu conteúdo
+-- sem o uso de plataformas de *blogging* como é comum no jornalismo diário --,
+o leitor explora fatos sobre a mortalidade da fauna do litoral de São Paulo, com
+o intuito de sensibilizá-lo a respeito da importância das UCs e dos fundos para
+a preservação do ecossistema, além da redução da produção de resíduos poluentes
+e do seu melhor tratamento.
+
+Foram executadas matérias em diversos locais da RMBS, consultando-se
+pesquisadores engajados na preservação ambiental da região, moradores de cidades
+da RMBS e outros membros de ONGs ligadas à pesquisa e catalogação biogeográfica
+da região, com o intuito de demonstrar alguns aspectos da interação entre o homem e
+a fauna no litoral: o quanto é comum encontrar animais em apuros, o quanto a vida
+humana os afeta, e como é fácil contribuir para a preservação ambiental da região,
+que é também ponto de interesse para extrativistas, imigrantes e para o setor de
+turismo.
+
+Incorpora em sua metodologia estudos sobre o atual comportamento dos consumidores
+de mídia e visando a maior difusão de conteúdo, tendo em vista a crescente
+rejeição -- ou, mais precisamente, a crescente ignorância a respeito -- dos
+formatos tradicionais de mídia.
+
+## O Produto
+
+Dividida em três partes -- chamadas de "atos" --, a reportagem permite ao leitor
+explorar o problema, suas causas e o que é feito para esclarecer e prevenir os
+atuais desafios ambientais no Brasil e, mais especificamente, em São Paulo.
+
+O projeto é adaptado para diversos formatos de tela -- do *mobile* aos *desktops*
+tradicionais -- e enfatiza a acessibilidade através de fontes largas, navegação
+intuitiva e comunicação entre o gráfico e o textual.
+
+Através do uso de *design* que se adapta a diversos formatos de tela, elementos
 interativos, texto claro -- inspirado simultaneamente na factualidade da chamada
 *hard news* e no aprofundamento do jornalismo literário -- e ênfase nas
 características que destacam o meio digital (multimidiático) dos seus antecessores,
 o projeto busca demonstrar as diferentes possibilidades de produção de conteúdo
 para usuários que são cada vez mais rápidos em adotar novas formas de comunicação.
 
-## O Produto
+Trata-se de uma reportagem multimidiática que ouviu 6 fontes, com diversos gráficos
+explorando mais de 4500 registros coletados em período de um ano por fruto de
+colaboração entre governo, capital privado e ativistas na forma de *headlines*
+direcionados ao público geral. Conta com meios para compartilhamento em redes
+sociais e galeria de fotos de monitoramento ambiental no Litoral Sul Paulista,
+além de entrevistas com autoridades da pesquisa na região.
 
-Do ponto de vista do conteúdo explorado na produção jornalística, o projeto
-tem como objetivo conscientizar a sua audiência -- através do meio multimídia
-anteriormente mencionado -- sobre a mortalidade de animais marinhos no litoral
-paulista, a causa das mortes, outros riscos ambientais presentes na região e os
-meios de ação para contribuir com a preservação ambiental. Foram executadas matérias
-em diversos locais da RMBS, consultando-se pesquisadores engajados na preservação
-ambiental da região, moradores de cidades da RMBS e outros membros de ONGs ligadas
-à pesquisa e catalogação biogeográfica da região.
 
 # Contextualização do tema
 

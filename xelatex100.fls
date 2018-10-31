@@ -202,6 +202,7 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/lmex10.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm
 INPUT xxx-Monografia.toc
 INPUT xxx-Monografia.toc
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmssbo10.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmri12.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm
