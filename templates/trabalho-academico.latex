@@ -217,7 +217,7 @@ $endif$}%% fim do preambulo
 
 % Configura citações de pandoc para 4cm à esquerda (utiliza o ambiente quote)
 \renewenvironment{quote}
-  {\small\list{}{\rightmargin=0.1cm \leftmargin=4cm}%
+  {\footnotesize\list{}{\rightmargin=0.1cm \leftmargin=4cm}%
    \item\relax}
   {\endlist}
 
