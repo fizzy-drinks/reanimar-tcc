@@ -221,10 +221,10 @@ meio ambiente na Baixada Santista, trazendo aos holofotes a necessidade de açã
 direta para preservação ambiental e os impactos negativos que a negligência pode
 causar num curto período de tempo. Para atingir este objetivo, serão usadas
 diferentes formas de mídia como texto, áudio, imagem estática e vídeo
-estruturados no formato de aplicativo web para permitir a exploração interativa
-do conteúdo, aproveitando-se para seu fim das tendências do comportamento humano
-frente a meios digitais e descobrindo novas formas de se transmitir ideias
-através da internet.
+estruturados no formato de reportagem multimidiática para *web* para permitir a
+exploração interativa do conteúdo, aproveitando-se para seu fim das tendências
+do comportamento humano frente a meios digitais e descobrindo novas formas de
+se transmitir ideias através da internet.
 
 ## Objetivos específicos
 
