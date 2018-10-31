@@ -136,21 +136,20 @@ degeneração ambiental por que vem passando o Estuário”
 \cite[p. 1]{DegeneracaoEstuario}.
 
 Para casos similares ao redor do Brasil, foi sugerido o controle da pesca
-\cite[p. 19]{ControlePescaCeara}, embora segundo estudos executados nas regiões
-Sul e Sudeste do Brasil,  “as capturas incidentais de aves marinhas ocorrem,
-mais frequentemente, nas frotas que utilizam espinhel pelágico”
-\cite{PescaAvesEspinhel}. A pesca por espinhel pelágico já era feita no Brasil,
-no período entre 1964 e 1972, por um esforço de 500.000 anzóis por ano, e
-atualmente o país encontra-se em processo de expansão marítima na pesca de atuns
-e espadartes (meka) \cite[p. 51]{EspeciesCapturadasEspinhel}. A mesma forma de
-pesca também é relatada a afetar tartarugas marinhas
-\cite[p. 3]{CapturaTartarugasEspinhel}. A conscientização das populações e governos
-para a mortalidade dos animais se faz presente na existência de diversas
-organizações não-governamentais. Desde 1982, projeto TAMAR/IBAMA, além de engajar
-em ações protetivas diretas, vem expandindo sua área de atuação para o
-monitoramento, pesquisa, envolvimento de pescadores e residentes de comunidades
-locais, divulgação de estudos, treinamento de estudantes e criação de alternativas
-econômicas para populações primariamente predatórias
+\cite[p. 19]{ControlePescaCeara}. Estudos executados nas regiões
+Sul e Sudeste do Brasil indicam que “as capturas incidentais de aves marinhas
+ocorrem, mais frequentemente, nas frotas que utilizam espinhel pelágico”
+\cite{PescaAvesEspinhel}. A pesca por espinhel pelágico passa por processo
+de ampliação devido aos projetos de expansão marítima na pesca de atuns
+e espadartes (meka) por parte do mercado brasileiro
+\cite[p. 51]{EspeciesCapturadasEspinhel}. A mesma forma de pesca também é relatada
+a afetar tartarugas marinhas \cite[p. 3]{CapturaTartarugasEspinhel}.
+A conscientização das populações e governos para a mortalidade dos animais se faz
+presente na existência de diversas organizações não-governamentais. Desde 1982,
+projeto TAMAR/IBAMA, além de engajar em ações protetivas diretas, vem expandindo
+sua área de atuação para o monitoramento, pesquisa, envolvimento de pescadores e
+residentes de comunidades locais, divulgação de estudos, treinamento de estudantes
+e criação de alternativas econômicas para populações primariamente predatórias
 \cite[p. 13-16]{PlanoCapturaIncidental}. Na Baixada Santista, os projetos são
 conduzidos por institutos locais, como o Instituto Biopesca
 \cite[p. 13-17]{Biopesca} e o Gremar \cite[p. 44-56]{Gremar}.
@@ -162,11 +161,15 @@ de sardinhas (na plataforma continental, primariamente com rede) e atuns (no
 oceano, com espinhel), além de diversas espécies de camarão \cite{PescaNoBrasil}.
 
 Os animais encontrados na costa brasileira se dividem entre mais de 1300
-espécies de invertebrados bentônicos, 1200 espécies de peixes e mais de 50
+espécies de invertebrados bentônicos[^bentonicos], 1200 espécies de peixes e mais de 50
 espécies de mamíferos, além de mais de 100 espécies de aves relacionadas aos
 ecossistemas marinhos brasileiros \cite[p. 23-24]{EspeciesNoBrasilMMA}. A
 preservação dos oceanos é assunto de importância única no país com a oitava
 maior extensão costeira do mundo \cite{RankingLinhasCosteiras}.
+
+[^bentonicos]: Diz-se *bentônico* do ser vivo comumente habitante do fundo dos
+mares. O termo foi usado pela primeira vez por um artista alemão, Ernst Hackel, em
+1834 \cite{Bentos}. Entre estes animais se encontram ostras e camarões.
 
 ### A situação socioambiental da Baixada Santista
 
