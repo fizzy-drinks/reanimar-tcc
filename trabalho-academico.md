@@ -77,14 +77,23 @@ quedas na receita \cite{PewResearchQuedaJornais}.
 
 Tudo isso traz aos holofotes a necessidade do jornalismo enquanto prática se
 adaptar às necessidades da população -- que agora passa a considerar
-*buzzwords*[^buzz] como *tempo real* e *interativo* parte de suas vidas
+*buzzwords*[^buzz] como *tempo real* e *interativo* como parte de suas vidas
 cotidianas. Não é de interesse dos jornalistas, ou das empresas que vendem
 comunicação de massa, se afastarem de seu público. Por isso, os diferentes tipos
-de mídia estão em estado de convergência, e não de competição. Já é comum que as
+de mídia estão em estado de convergência e não de competição. Já é comum que as
 mídias caminhem no sentido de se integrar e utilizar *software* e bases de dados
 compartilhadas \cite[p. 4]{JornalismoMobile}.
 
 [^buzz]: Termos ou palavras em voga
+
+Por esse motivo, a opção por tratar de um tema tão importante e relevante para
+ambos o presente e o futuro da sociedade levou em conta a necessidade de inovação
+do mercado jornalístico como um todo. Da mesma forma que não há interesse em falar
+para um público que não o quer ouvir, não deve haver interesse em falar com esse
+mesmo público através de um meio obsoleto que é cada vez menos utilizado por eles.
+Assim, foi escolhido como formato deste projeto aquele que melhor representa a
+já mencionada *convergência midiática*, permitindo a união de redes sociais,
+jornalismo interativo, audiovisual e texto.
 
 ## A influência humana sobre o ecossistema marinho brasileiro
 
