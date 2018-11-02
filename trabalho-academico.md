@@ -464,6 +464,116 @@ habilidade para o jornalista da Era da Informação.
 
 # Plano de negócios e viabilização do produto jornalístico
 
+Uma das vantagens do formato *web* é o baixo custo de produção, que traduz-se em
+baixo custo também para o cliente final: enquanto produções televisivas ou até
+mesmo de rádio requerem equipamentos de alta qualidade para otimizar seu meio de
+comunicação, o fato de o meio digital permitir o uso de todos estes formatos
+combinado com a necessidade de manter o volume de dados baixo para acelerar o
+carregamento das páginas e reduzir o consumo de uma potencial franquia de internet
+criam um ambiente mais tolerante quanto aos níveis de qualidade de produção.
+
+Dito isto, a maior parte do custo é por hora de serviço prestado, já que os custos
+operacionais são próximos de uma produção jornalística tradicional -- substituindo
+as despesas de impressão pelas de hospedagem web.
+
+Embora uma hospedagem possa também trazer vantagens com relação à velocidade de
+*download*, existem hospedagens gratuitas -- como o GitHub Pages[^ghpages], utilizado
+para a demonstração deste projeto -- que podem ser suficientes para o caso de uso
+da maioria dos clientes.
+
+## Custo de produção da reportagem *Reanimar*
+
+Despesas | Custo mínimo | Utilizado | Custo no projeto
+---|---|---|---
+Hospedagem | Nenhum | GitHub Pages | R$ 0
+Produção[^horas] | R$ 25/hora | 80 horas | R$ 2000
+Operacionais[^transporte] | *variável* | R$ 113 | R$ 113
+*Total* | \-\- | \-\- | \-\- | R$ 2113,00
+
+[^ghpages]: Serviço de hospedagem estática oferecido comunitariamente pela empresa
+GitHub. Disponível em http://github.io
+[^horas]: Foram consideradas as horas gastas diretamente com o projeto: reportagem,
+produção e edição de conteúdo
+[^transporte]: Foram considerados custos operacionais os relacionados ao transporte
+para os locais de reportagem
+
+## Requisitos para a criação de agência de jornalismo multimídia
+
+Devido ao baixo custo acima explorado para o desenvolvimento dos produtos, as
+necessidades financeiras para a criação de uma empresa voltada para esse tipo de
+conteúdo também provam ser menores que as das empresas tradicionais. Uma
+*startup*[^startup] destinada à produção de reportagens multimídia interativas
+precisaria, no seu nível mais básico, apenas de um computador; listamos aqui
+diversos outras potenciais necessidades para estipular um investimento inicial
+seguro.
+
+[^startup]: Utiliza-se aqui a definição popular de *startup*: uma empresa de baixo
+custo explorando um mercado que ainda esteja em estágios iniciais e oferecendo
+um modelo de negócios diferente da *status quo*.
+
+### Investimento inicial
+
+Despesa | Quantidade | Custo estimado[^price]
+---|---|---
+Computador portátil[^laptop] intermediário[^midtierPcs] | 2[^twoPcs] | R$ 6000
+Telefone celular[^midtierPhones] | 2[^twoPhones] | R$ 1600
+
+[^laptop]: A portabilidade do computador amplia a quantidade de ambientes de onde
+pode se trabalhar num modelo decentralizado. Optar por computadores *desktop*
+implicaria, também, num local fixo de trabalho.
+[^midtierPcs]: Como parâmetro para "intermediário", foi estabelecido computador com
+processador Intel i5 7400, similar ou superior, com pelo menos 8GB de memória RAM.
+[^twoPcs]: Quantidade mínima para dois jornalistas-desenvolvedores trabalhando no
+projeto.
+[^midtierPhones]: Como parâmetro para "intermediário", foi estabelecido celular com
+processador ARM de oito núcleos, similar ou superior, com pelo menos 1,5GB
+de memória RAM e 32GB de armazenamento interno para arquivos, fotos e vídeos e
+utilização dos recursos de comunicação.
+[^twoPhones]: Quantidade mínima para dois jornalistas-desenvolvedores trabalhando
+no projeto.
+[^price]: Valores pesquisados em outubro de 2018
+
+### Custos mensais
+
+Tendo em vista a ausência de um escritório centralizado e a opção pelo regime de
+trabalho remoto, custos como internet fixa, ambientação, água, energia elétrica
+e serviços gerais são nulos. O único custo considerado necessário e não presumido
+por parte da empresa é o das contas de celular que satisfaçam as necessidades dos
+repórteres para a comunicação de assuntos relacionados ao trabalho.
+
+Despesa | Custo estimado mensal[^pricephone]
+---|---
+Contas de celular[^contaCelular] | R$ 140
+
+[^contaCelular]: Foram estimados valores com base em provedoras de serviços
+telefônicos do estado de São Paulo para planos com pelo menos 3GB mensais de
+download via internet e ligações nacionais ilimitadas, conforme valores pesquisados
+em 2018.
+[^pricephone]: Valores pesquisados em outubro de 2018
+
+### Possíveis compradores
+
+O modelo de trabalho da empresa proposta se baseia na redução de custo através da
+subversão de modelos de trabalho antigos, que provam ser desnecessários após uma
+série de avanços e mudanças de paradigma graças a novas tecnologias e necessidades
+de mercado -- entre as quais está o avanço da multimídia explorado neste projeto.
+Portanto, um dos pontos de forte diferenciação deste projeto seria o custo acessível,
+destinado a empresas e indivíduos que ainda passam por transição para a nova era de
+convergência midiática.
+
+1. Empresas interessadas em reportagens, exposição de estatísticas de forma digestível por grandes públicos;
+2. Agências de publicidade e produtoras de conteúdo atendendo (1);
+3. Organizações não-governamentais interessadas em divulgação;
+4. Órgãos governamentais;
+5. Jornalistas e agências de notícias, em intermédio de (1) ou (3);
+6. Jornalistas e agências de notícias sem capacidade financeira ou profissional para produzir conteúdo multimídia internamente
+
+Devido à natureza abragente do *target* do negócio -- qualquer empresa de
+comunicação, ou potencial contratante de uma --, é fácil encontrar potenciais
+clientes em qualquer região. Graças à natureza global da economia e das
+comunicações, além da relação direta deste projeto com a internet, torna-se
+possível negociar com clientes de qualquer lugar no mundo.
+
 # Recursos utilizados
 
 ## Tecnologias *web*
