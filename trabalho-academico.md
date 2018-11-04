@@ -627,6 +627,52 @@ Para a gravação das reportagens em vídeo e áudio, foram utilizados dois celu
 um Asus ZenFone 3 e um Asus ZenFone 4. A edição foi feita com computadores
 domésticos, assim como a tabulação dos dados anteriormente mencionada.
 
-<!--
 # Cronograma anual
--->
+
+Abaixo está a relação de datas e atividades da execução deste trabalho. Observa-se
+que houve momentos de hiato devido à impossibilidade de execução contínua do trabalho;
+do contrário, a conclusão se teria dado com maior brevidade.
+
+Data           | Atividade
+---------------|---------------------------------------------------------------
+         05/03 | Início das atividades
+14/04 -- 15/04 | Produção e revisão de ofício do projeto
+         16/04 | Envio de ofício detalhando as intenções do projeto para autorização do PMP junto às  UCs
+07/03 -- 14/04 | Levantamento inicial de dados
+14/04 -- 30/04 | Agendamento de reuniões com as UCs[^agendaUcs]
+         26/04 | Primeira reunião com Instituto Biopesca
+         10/05 | Captação de imagens
+&nbsp;         | Acompanhamento de monitoramento das praias
+&nbsp;         | Entrevista com pescadores
+&nbsp;         | Segunda tentativa de agendamento de entrevista com o Gremar
+13/05 -- 25/07 | Análise e coleta dos dados disponibilizados em \citeonline{PMP}
+         11/08 | IV Workshop de Comunicação Ambiental da Rede Biomar[^workshop]
+         22/08 | Entrevista com Fábio Giordano
+&nbsp;         | Captação de áudio
+03/09 -- 08/09 | Levantamento de formatos de reportagem multimidiática para estudo
+03/09 -- 10/09 | Terceira tentativa de agendamento de entrevista com o Gremar
+17/09 -- 30/09 | Leitura e análise de conteúdo de reportagens multimidiáticas ou tradicionais para determinação do estilo utilizado no projeto
+         24/09 | Entrevista com Rodrigo Valle e Gabriela Santos
+&nbsp;         | Captação de imagens
+25/09 -- 25/10 | Desenvolvimento da plataforma para conteúdo *web*
+&nbsp;         | Estudo de possíveis formatos para o desenvolvimento da página *web*
+&nbsp;         | Desenho das páginas; projeto de *layout*
+&nbsp;         | Programação do sistema de produção de conteúdo
+&nbsp;         | Esboço e estrutura inicial da reportagem
+01/10 -- 26/10 | Leitura e separação de fontes e referências acadêmicas
+08/10 -- 05/11 | Redação, montagem e adaptação final das reportagens
+&nbsp;         | Edição de conteúdo para a plataforma *web*
+&nbsp;         | Criação de mapas interativos
+&nbsp;         | Transformação de conteúdo da reportagem em YAML (linguagem utilizada como meio para a edição do conteúdo)
+&nbsp;         | Reformatação dos textos e novas atualizações de *layout*
+13/10 -- 03/11 | Desenvolvimento da monografia
+29/10 -- 30/10 | Edição de vídeo
+
+[^agendaUcs]: Devido a problemas de contato e certame de datas com o Gremar, que
+também seria objeto de entrevistas, o projeto ateve-se ao Instituto Biopesca, UC
+responsável pelas praias entre Peruíbe e Praia Grande. Durante este período, ainda
+eram feitas tentativas de contato com o Gremar.
+[^workshop]: Workshop com representantes dos projetos Albatroz, Coral Vivo,
+Golfinho Rotador, Baleia Jubarte e Tamar. Foram extraídas informações, *leads*
+e dados de divulgação, além de entrevistas não documentadas para direcionamento
+do projeto.
