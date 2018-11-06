@@ -676,3 +676,29 @@ eram feitas tentativas de contato com o Gremar.
 Golfinho Rotador, Baleia Jubarte e Tamar. Foram extraídas informações, *leads*
 e dados de divulgação, além de entrevistas não documentadas para direcionamento
 do projeto.
+
+# Conclusão
+
+Através do Projeto Reanimar foi possível avaliar novas maneiras de se produzir
+jornalismo para formatos digitais. Muitas vezes, mesmo com preparo prévio,
+certas necessidades e desafios surgem apenas com a prática, algo que se faz
+necessário nesta fase do mundo na qual a experiência confere mais valor à tese
+que a teoria. Foi uma oportunidade única de aplicar os conhecimentos gerais da
+área da Comunicação Social a um contexto moderno, pouco explorado no sentido
+acadêmico, onde a união entre jornalismo, desenvolvimento de *software*, estatística
+e psicologia é muito mais próxima do que imaginado até mesmo em tempos recentes.
+
+O projeto ainda abre espaço para um futuro onde estas áreas de trabalho sejam
+exploradas com maior atenção dentro das graduações de Comunicação -- um contato
+básico com processamento de dados ou com produção multimídia, por exemplo, é algo
+que pode ser estudado pelos especialistas da área como uma alternativa para um
+currículo melhor adequado às tendências do consumidor de jornalismo.
+
+Também funciona como exemplo de como o meio ambiente pode ser explorado nessa
+nova mídia, e como o jornalismo tem um papel fundamental na transformação de uma
+sociedade pouco envolvida em questões vitais para sua própria sobrevivência e
+qualidade em uma que trabalha ativamente, e cooperativamente, por um futuro mais
+sustentável. Apoia-se em uma das responsabilidades fundamentais do Jornalismo --
+a de trazer à tona o que é de interesse público e atual -- e busca atingir um
+público criticamente dessensibilizado e atrai-lo para as questões que de fato
+farão diferença nos anos por vir.
