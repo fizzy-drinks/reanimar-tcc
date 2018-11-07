@@ -200,6 +200,7 @@ INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/lmex10.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmri12.tfm
 INPUT xxx-Monografia.toc
 INPUT xxx-Monografia.toc
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmssbo10.tfm
@@ -212,7 +213,6 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/lmmi7.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/lmsy7.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmri12.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmr8.tfm
@@ -234,7 +234,9 @@ INPUT imagens/home2.PNG
 INPUT imagens/home3.PNG
 INPUT imagens/informacao_rapida.PNG
 INPUT imagens/interativo.PNG
-INPUT imagens/texto.PNG
+INPUT imagens/impacto.PNG
+INPUT imagens/texto2.PNG
 INPUT imagens/viz_grafica.PNG
+INPUT imagens/texto.PNG
 OUTPUT xxx-Monografia.toc
 INPUT xxx-Monografia.aux
