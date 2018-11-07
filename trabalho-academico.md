@@ -681,12 +681,15 @@ do projeto.
 
 Através do Projeto Reanimar foi possível avaliar novas maneiras de se produzir
 jornalismo para formatos digitais. Muitas vezes, mesmo com preparo prévio,
-certas necessidades e desafios surgem apenas com a prática, algo que se faz
-necessário nesta fase do mundo na qual a experiência confere mais valor à tese
-que a teoria. Foi uma oportunidade única de aplicar os conhecimentos gerais da
-área da Comunicação Social a um contexto moderno, pouco explorado no sentido
+certas necessidades e desafios surgem apenas com a prática, que é altamente
+necessária no momento atual, no qual a experiência vale mais para justificar um
+ponto do que a teoria. Foi uma oportunidade única de aplicar os conhecimentos gerais
+da área da Comunicação Social a um contexto moderno, pouco explorado no sentido
 acadêmico, onde a união entre jornalismo, desenvolvimento de *software*, estatística
 e psicologia é muito mais próxima do que imaginado até mesmo em tempos recentes.
+
+O projeto está disponível, por tempo indeterminado, no endereço da internet
+&lt;https://gabrielchiconi.github.io/reanimar/#>.
 
 O projeto ainda abre espaço para um futuro onde estas áreas de trabalho sejam
 exploradas com maior atenção dentro das graduações de Comunicação -- um contato
